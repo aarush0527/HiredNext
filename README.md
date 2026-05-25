@@ -214,11 +214,10 @@ Each interview session is evaluated across four dimensions, aggregated into a sc
 
 ---
 
-## 👥 Authors
+## 👥 Author
 
-| Name | Enrollment |
-|---|---|
-| Aarush | E23CSEU1540 |
+Aarush
+E23CSEU1540
 
 School of Computer Science Engineering and Technology  
 **Bennett University**, Greater Noida, UP, India — April 2025
